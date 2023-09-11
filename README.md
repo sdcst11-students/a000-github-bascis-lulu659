@@ -1,4 +1,4 @@
-# :wave: First Assignment
+# :wave:  1. Assignment
 
 ## 🤓 Course overview and learning outcomes 
 
